@@ -4,7 +4,7 @@ Things to read (or watch) that address these two questions: **What is scalable C
 
 By *scalable CSS*, I mean CSS that is
 - capable of remaining effective, coherent, extendable, and maintainable as projects grow over time
-- capable of being worked on by any number of different people in a consistent, systematic way
+- capable of being understood and worked on by any number of different people in a consistent, systematic way
 
 Included are resources that articulate key principles and practices.
 
@@ -32,6 +32,8 @@ Newest on top, oldest on bottom.
 ## CSS Styleguides
 
 These styleguides articulate conventions and guidelines for authoring scalable CSS.
+
+(I'm distinguishing *styleguides* from what I would call *pattern libraries*, which are references created to document and exemplify existing styles rather than guidelines for the authoring of the styles. Other people often use the term *styleguide* to refer to both or either of these reference types.)
 
 - [Harry Roberts](http://cssguidelin.es/)
 - [Bootstrap](http://mdo.github.io/code-guide/#css)
