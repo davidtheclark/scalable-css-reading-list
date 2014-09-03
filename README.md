@@ -1,19 +1,31 @@
 # A Scalable CSS Reading List
 
-## Articles about Scalable CSS
+Things to read (or watch) that address these two questions: **What is scalable CSS?** and **How do we write scalable CSS?**
 
-Newest first.
+By *scalable CSS*, I mean CSS that is
+- capable of remaining effective, coherent, extendable, and maintainable as projects grow over time
+- capable of being worked on by any number of different people in a consistent, systematic way
+
+Included are resources that articulate key principles and practices.
+
+**If you know of a resource that should be added, please share! File an issue or a pull request.**
+
+## Articles
+
+Newest on top, oldest on bottom.
 
 - [Medium's CSS is actually pretty f\*\*\*ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06), by Jacob Thornton (8/28/14)
 - [Enduring CSS: writing style sheets for rapidly changing, long-lived projects](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects), by Ben Frain (8/7/14)
 - [MindBEMding - getting your head around BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/), by Harry Roberts (1/25/2013)
 - [CSS Architecture](http://philipwalton.com/articles/css-architecture/), by Philip Walton (11/16/12)
 - [SOLID CSS](http://blog.millermedeiros.com/solid-css/), by Miller Medeiros (9/10/12)
+- [Shoot to kill: CSS selector intent](http://csswizardry.com/2012/07/shoot-to-kill-css-selector-intent/), by Harry Roberts (7/17/12)
 - [The open/closed principle applied to CSS](http://csswizardry.com/2012/06/the-open-closed-principle-applied-to-css/), by Harry Roberts (6/21/12)
+- [Keep your CSS selectors short](http://csswizardry.com/2012/05/keep-your-css-selectors-short/), by Harry Roberts (5/15/12)
 - [About HTML semantics and frontend architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/), by Nicolas Gallagher (3/15/12)
 - [An Introduction to Object Oriented CSS (OOCSS)](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/), by Louis Lazaris (12/12/11)
 
-## Longer Things
+## Longer Readings
 - [Scalable and Modular Architecture for CSS](https://smacss.com/), by Jonathan Snook
 - [SUIT CSS Documentation](https://github.com/suitcss/suit/blob/master/doc/README.md), by Nicolas Gallagher
 
