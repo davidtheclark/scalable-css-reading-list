@@ -1,14 +1,18 @@
 # A Scalable CSS Reading List
 
-Things to read (or watch) that address these two questions: **What is scalable CSS?** and **How do we write scalable CSS?**
+A list of things to read or watch that address these two questions: **What is scalable CSS?** and **How do we create scalable CSS?**
 
 By *scalable CSS*, I mean CSS that is
 - capable of remaining effective, coherent, extendable, and maintainable as projects grow over time
 - capable of being understood and worked on by any number of different people in a consistent, systematic way
 
-Included are resources that articulate key principles and practices.
+Included are resources that articulate key principles and practices. The list is restricted to the articles that I consider the most *important* to read -- that is, the best explanations (of which I'm aware) for different approaches to the problems.
 
 **If you know of a resource that should be added, please share! File an issue or a pull request.**
+
+(There are plenty of other problems related to CSS: understanding how it works, using specific properties, accomplishing specific styles, achieving responsive design, boosting performance, etc. This list is strictly focused on the problem of creating scalable CSS.)
+
+*None of the sections present any kind of "ranking" or "suggested reading order." Just read them all.*
 
 ## Articles
 
@@ -33,7 +37,7 @@ Newest on top, oldest on bottom.
 
 These styleguides articulate conventions and guidelines for authoring scalable CSS.
 
-(I'm distinguishing *styleguides* from what I would call *pattern libraries*, which are references created to document and exemplify existing styles rather than guidelines for the authoring of the styles. Other people often use the term *styleguide* to refer to both or either of these reference types.)
+(I'm distinguishing *styleguides* from what I would call *pattern libraries*, which are references created to document and exemplify existing styles rather than guidelines for the authoring of the styles. Other people often use the term *styleguide* to refer to both or either of these reference types. I think pattern libraries are less specifically about scalable CSS, and more about a scalable frontend design and development workflow; so I'm not including resources related to pattern libraries.)
 
 - [Harry Roberts](http://cssguidelin.es/)
 - [Bootstrap](http://mdo.github.io/code-guide/#css)
@@ -44,7 +48,7 @@ These styleguides articulate conventions and guidelines for authoring scalable C
 
 ## Talks
 
-Newest first, as far as I can know.
+Newest first, I think.
 
 - [Adaptation and Components](https://www.youtube.com/watch?v=m0oMHG6ZXvo) ([slides](https://speakerdeck.com/necolas/adaptation-and-components)), Nicolas Gallagher (2014)
 - [CSS is a Mess](https://www.youtube.com/watch?v=C4z_9F6nfS8), Jonathan Snook (2013)
