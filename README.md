@@ -29,9 +29,11 @@ Newest on top, oldest on bottom.
 - [About HTML semantics and frontend architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/), by Nicolas Gallagher (3/15/12)
 - [An Introduction to Object Oriented CSS (OOCSS)](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/), by Louis Lazaris (12/12/11)
 
-## Longer Readings
+## Authoring Frameworks & Longer Readings
 - [Scalable and Modular Architecture for CSS](https://smacss.com/), by Jonathan Snook
 - [SUIT CSS Documentation](https://github.com/suitcss/suit/blob/master/doc/README.md), by Nicolas Gallagher
+- [Multilayer CSS](http://operatino.github.io/MCSS/en/), by Robert Haritonov
+- [Object Oriented CSS Wiki](https://github.com/stubbornella/oocss/wiki) by Nicole Sullivan
 
 ## CSS Styleguides
 
