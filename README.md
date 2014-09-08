@@ -19,7 +19,7 @@ Included are resources that articulate key principles and practices. The list is
 Newest on top, oldest on bottom.
 
 - [Medium's CSS is actually pretty f\*\*\*ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06), by Jacob Thornton (8/28/14)
-- [Used and Abused -– CSS Inheritance and Our Misuse of the Cascade](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/?utm_source=CSS-Weekly&utm_campaign=Issue-127&utm_medium=RSS), by Micah Godbolt (8/25/14)
+- [Used and Abused -- CSS Inheritance and Our Misuse of the Cascade](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/?utm_source=CSS-Weekly&utm_campaign=Issue-127&utm_medium=RSS), by Micah Godbolt (8/25/14)
 - [Enduring CSS: writing style sheets for rapidly changing, long-lived projects](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects), by Ben Frain (8/7/14)
 - [Challenging CSS Best Practices](http://www.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/) -- suggesting a unique approach (all utility classes) the author calls Atomic CSS -- by Thierry Koblentz (10/21/13)
 - [MindBEMding - getting your head around BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/), by Harry Roberts (1/25/2013)
