@@ -28,6 +28,7 @@ Newest on top, oldest on bottom.
 - [Shoot to kill: CSS selector intent](http://csswizardry.com/2012/07/shoot-to-kill-css-selector-intent/), by Harry Roberts (7/17/12)
 - [The open/closed principle applied to CSS](http://csswizardry.com/2012/06/the-open-closed-principle-applied-to-css/), by Harry Roberts (6/21/12)
 - [Keep your CSS selectors short](http://csswizardry.com/2012/05/keep-your-css-selectors-short/), by Harry Roberts (5/15/12)
+- [The single responsibility principle applied to CSS](http://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/), by Harry Roberts (4/28/12)
 - [About HTML semantics and frontend architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/), by Nicolas Gallagher (3/15/12)
 - [An Introduction to Object Oriented CSS (OOCSS)](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/), by Louis Lazaris (12/12/11)
 
