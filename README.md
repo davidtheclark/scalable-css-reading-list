@@ -33,6 +33,7 @@ Newest on top, oldest on bottom.
 - [An Introduction to Object Oriented CSS (OOCSS)](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/), by Louis Lazaris (12/12/11)
 
 ## Authoring Frameworks & Longer Readings
+- [CSS Guidelines](http://cssguidelin.es/), by Harry Roberts
 - [Scalable and Modular Architecture for CSS](https://smacss.com/), by Jonathan Snook
 - [SUIT CSS Documentation](https://github.com/suitcss/suit/blob/master/doc/README.md), by Nicolas Gallagher
 - [Multilayer CSS](http://operatino.github.io/MCSS/en/), by Robert Haritonov
@@ -44,7 +45,6 @@ These styleguides articulate conventions and guidelines for authoring scalable C
 
 (I'm distinguishing *styleguides* from what I would call *pattern libraries*, which are references created to document and exemplify existing styles rather than guidelines for the authoring of the styles. Other people often use the term *styleguide* to refer to both or either of these reference types. I think pattern libraries are less specifically about scalable CSS, and more about a scalable frontend design and development workflow; so I'm not including resources related to pattern libraries.)
 
-- [Harry Roberts](http://cssguidelin.es/)
 - [Bootstrap](http://mdo.github.io/code-guide/#css)
 - [SUIT](https://github.com/suitcss/suit/blob/master/doc/STYLE.md#4-css)
 - [Github](https://github.com/styleguide/css)
