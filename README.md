@@ -75,4 +75,5 @@ Newest first, I think.
 - [CSS is a Mess](https://www.youtube.com/watch?v=C4z_9F6nfS8), Jonathan Snook (2013)
 - [Architecting Scalable CSS](http://vimeo.com/67544231) ([slides](https://speakerdeck.com/csswizardry/architecting-scalable-css)), Harry Roberts (2013)
 - [CSS for Grownups](https://www.youtube.com/watch?v=ZpFdyfs03Ug) ([slides](https://speakerdeck.com/andyhume/css-for-grown-ups-maturing-best-practises-sxsw-2012)), Andy Hume (2013)
+- [CSS module system in Google+](https://github.com/davidtheclark/scalable-css-reading-list/issues/3) ([slides](https://docs.google.com/presentation/d/1_LpRI2_grOgTKyqodgg8yWGDhStgZHxnvjFOTJ6Jb3g/edit#slide=id.p)), Shubhie Panicker (2013)
 - [Object-Oriented CSS](https://www.youtube.com/watch?v=BjAdHyA9nIY) ([slides](http://www.slideshare.net/stubbornella/object-oriented-css)), Nicole Sullivan (2009)
