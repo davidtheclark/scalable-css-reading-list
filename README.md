@@ -16,7 +16,7 @@ Included are resources that articulate key principles and practices. The list is
 
 ## Articles
 
-Newest on top, oldest on bottom.
+Newest on top, oldest on bottom. (A note for you outside the US: my dates are month/day/year format.)
 
 - [Used and Abused -- CSS Inheritance and Our Misuse of the Cascade](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/?utm_source=CSS-Weekly&utm_campaign=Issue-127&utm_medium=RSS), by Micah Godbolt (8/25/14)
 - [Enduring CSS: writing style sheets for rapidly changing, long-lived projects](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects), by Ben Frain (8/7/14)
@@ -60,6 +60,7 @@ These styleguides articulate conventions and guidelines for authoring scalable C
 Articles providing overviews of real-life CSS methodologies for production sites and apps of significant scale. Although these articles generally don't include principles that are not better explained in the articles and longer reads above, they are so pragmatic and concrete that they are important reads in their own right. Newest first.
 
 - [Refining the Way We Structure Our CSS at Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/), by Bobby Grace (11/11/14)
+- [How we do CSS at Ghost](http://dev.ghost.org/css-at-ghost), by Paul Davis (11/4/14)
 - [Medium's CSS is actually pretty f\*\*\*ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06), by Jacob Thornton (8/28/14)
 - [CSS at Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/), by Mike Aparicio (8/10/14)
 - [Codepen's CSS](http://codepen.io/chriscoyier/blog/codepens-css), by Chris Coyier (7/30/14)
