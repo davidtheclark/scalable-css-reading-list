@@ -73,6 +73,7 @@ Articles providing overviews of real-life CSS methodologies for production sites
 
 Newest first, I think.
 
+- [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html), Christopher Chedeau, a.k.a. Vjeux (2014)
 - [Thinking Beyond "Scalable CSS"](http://www.thedotpost.com/2014/11/nicolas-gallagher-thinking-beyond-scalable-css), Nicolas Gallagher (2014)
 - [Adaptation and Components](https://www.youtube.com/watch?v=m0oMHG6ZXvo) ([slides](https://speakerdeck.com/necolas/adaptation-and-components)), Nicolas Gallagher (2014)
 - [CSS is a Mess](https://www.youtube.com/watch?v=C4z_9F6nfS8), Jonathan Snook (2013)
