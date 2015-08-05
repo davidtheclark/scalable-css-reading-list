@@ -1,4 +1,4 @@
-# A Scalable CSS Reading List
+# A Scalable CSS Reading List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of things to read or watch that address these two questions: **What is scalable CSS?** and **How do we create scalable CSS?**
 
