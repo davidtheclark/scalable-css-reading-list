@@ -35,6 +35,7 @@ Newest on top, oldest on bottom. (A note for you outside the US: my dates are mo
 
 ## Authoring Frameworks & Longer Readings
 
+- [CSS Modules](http://glenmaddern.com/articles/css-modules), by Glen Maddern
 - [CSS Guidelines](http://cssguidelin.es/), by Harry Roberts
 - [Scalable and Modular Architecture for CSS](https://smacss.com/), by Jonathan Snook
 - [SUIT CSS Documentation](https://github.com/suitcss/suit/blob/master/doc/README.md), by Nicolas Gallagher
