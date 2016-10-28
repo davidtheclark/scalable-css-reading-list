@@ -56,7 +56,7 @@ These styleguides articulate conventions and guidelines for authoring scalable C
 - [SUIT](https://github.com/suitcss/suit/blob/master/doc/STYLE.md#4-css)
 - [Github](https://github.com/styleguide/css)
 - [Medium](https://gist.github.com/fat/a47b882eb5f84293c4ed)
-- [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#CSS_Style_Rules)
+- [Google](https://google.github.io/styleguide/htmlcssguide.xml#CSS_Style_Rules)
 
 ## Workflow Overviews
 
