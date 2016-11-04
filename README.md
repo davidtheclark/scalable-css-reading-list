@@ -18,6 +18,7 @@ Included are resources that articulate key principles and practices. The list is
 
 Newest on top, oldest on bottom. (A note for you outside the US: my dates are month/day/year format.)
 
+- [8 rules for a robust, scalable CSS architecture](https://github.com/jareware/css-architecture/blob/master/README.md), by Jarno Rantanen (10/16/2016)
 - [More Meaningful CSS](http://snook.ca/archives/html_and_css/more-meaningful-css), by Jonathan Snook (5/17/16)
 - [CSS and Scalability](http://mrmrs.io/writing/2016/03/24/scalable-css/), by Adam Morse (3/24/16)
 - [Can CSS Be Too Modular?](http://csswizardry.com/2015/03/can-css-be-too-modular/), by Harry Roberts (3/8/15)
