@@ -78,6 +78,7 @@ Articles providing overviews of real-life CSS methodologies for production sites
 
 Newest first, I think.
 
+- [Atomic CSS](https://www.youtube.com/watch?v=bokjM0ZaizQ) ([Slides](https://www.haikudeck.com/atomic-css-science-and-technology-presentation-dJ0xlFjhBQ)), Thierry Koblentz (2015)
 - [Managing CSS Projects with ITCSS](https://speakerdeck.com/dafed/managing-css-projects-with-itcss), Harry Roberts (2014)
 - [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html), Christopher Chedeau, a.k.a. Vjeux (2014)
 - [Thinking Beyond "Scalable CSS"](http://www.thedotpost.com/2014/11/nicolas-gallagher-thinking-beyond-scalable-css), Nicolas Gallagher (2014)
